@@ -1,0 +1,13 @@
+/mnt/Pedro/WorkSpace/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml
+/mnt/Pedro/WorkSpace/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.deps.json
+/mnt/Pedro/WorkSpace/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.runtimeconfig.json
+/mnt/Pedro/WorkSpace/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.runtimeconfig.dev.json
+/mnt/Pedro/WorkSpace/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.dll
+/mnt/Pedro/WorkSpace/EditorHtml/bin/Debug/netcoreapp3.1/EditorHtml.pdb
+/mnt/Pedro/WorkSpace/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.csprojAssemblyReference.cache
+/mnt/Pedro/WorkSpace/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.AssemblyInfoInputs.cache
+/mnt/Pedro/WorkSpace/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.AssemblyInfo.cs
+/mnt/Pedro/WorkSpace/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.csproj.CoreCompileInputs.cache
+/mnt/Pedro/WorkSpace/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.dll
+/mnt/Pedro/WorkSpace/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.pdb
+/mnt/Pedro/WorkSpace/EditorHtml/obj/Debug/netcoreapp3.1/EditorHtml.genruntimeconfig.cache
